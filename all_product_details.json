@@ -3,18 +3,18 @@
     "title": "Little Steps",
     "package": "com.quantacore.littlesteps",
     "download_url": "https://play.google.com/store/apps/details?id=com.quantacore.littlesteps",
-    "thumbnail_url": ""
+    "thumbnail_url": "https://github.com/solutionsquantacore-droid/app_details/blob/main/thumbnails/little_steps.webp"
   },
   {
     "title": "Bhavarth",
     "package": "com.quantacore.bhavarth",
     "download_url": "https://play.google.com/store/apps/details?id=com.quantacore.bhavarth",
-    "thumbnail_url": ""
+    "thumbnail_url": "https://github.com/solutionsquantacore-droid/app_details/blob/main/thumbnails/lotus_om.webp"
   },
   {
     "title": "ExpenseQ",
     "package": "com.quantacore.expenseq",
     "download_url": "https://play.google.com/store/apps/details?id=com.quantacore.expenseq",
-    "thumbnail_url": ""
+    "thumbnail_url": "https://github.com/solutionsquantacore-droid/app_details/blob/main/thumbnails/expense_q.webp"
   }
 ]
