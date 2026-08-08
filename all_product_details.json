@@ -26,5 +26,12 @@
     "download_url": "https://play.google.com/store/apps/details?id=com.quantacore.docustudio",
     "thumbnail_url": "https://github.com/solutionsquantacore-droid/app_details/blob/main/thumbnails/docq.webp",
     "enable": "true"
+  },
+  {
+    "title": "Social Saver",
+    "package": "com.quantacore.socialsaver",
+    "download_url": "https://play.google.com/store/apps/details?id=com.quantacore.socialsaver",
+    "thumbnail_url": "https://github.com/solutionsquantacore-droid/app_details/blob/main/thumbnails/social_saver.webp",
+    "enable": "false"
   }
 ]
